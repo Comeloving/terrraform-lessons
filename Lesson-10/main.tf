@@ -1,12 +1,4 @@
-#----------------------------------------------------------
-# My Terraform
-#
-# Find Latest AMI id of:
-#    - Ubuntu 18.04
-#    - Amazon Linux 2
-#    - Windows Server 2019 Base
-#
-#-----------------------------------------------------------
+// AWS Data Sources for Lookup AMIid
 
 provider "aws" {
     region = "eu-central-1"
