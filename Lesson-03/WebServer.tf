@@ -1,3 +1,5 @@
+// External file for user_data
+
 provider "aws" {
     region     = "eu-central-1"
 }
