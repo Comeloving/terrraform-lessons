@@ -1,3 +1,5 @@
+// Dynamic file via templatefile
+
 provider "aws" {
     region     = "eu-central-1"
 }
