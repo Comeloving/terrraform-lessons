@@ -1,11 +1,4 @@
-#----------------------------------------------------------
-# My Terraform
-#
-# Build WebServer during Bootstrap
-#
-# Made by Denis Astahov
-#----------------------------------------------------------
-
+// Outputs and multiply .tf files
 
 provider "aws" {
   region = "eu-central-1"
