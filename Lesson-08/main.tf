@@ -1,8 +1,4 @@
-#----------------------------------------------------------
-# My Terraform
-#
-# Made by Denis Astahov
-#----------------------------------------------------------
+// Dependencies depends_on
 
 provider "aws" {
   region = "eu-central-1"
